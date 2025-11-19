@@ -1,0 +1,28 @@
+/home/peter/Documents/Leetcode Problems/1. Two Sum/bin/Debug/net8.0/1. Two Sum
+/home/peter/Documents/Leetcode Problems/1. Two Sum/bin/Debug/net8.0/1. Two Sum.deps.json
+/home/peter/Documents/Leetcode Problems/1. Two Sum/bin/Debug/net8.0/1. Two Sum.runtimeconfig.json
+/home/peter/Documents/Leetcode Problems/1. Two Sum/bin/Debug/net8.0/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/bin/Debug/net8.0/1. Two Sum.pdb
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfoInputs.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfo.cs
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.csproj.CoreCompileInputs.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/refint/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.pdb
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/1. Two Sum.genruntimeconfig.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/obj/Debug/net8.0/ref/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.deps.json
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.runtimeconfig.json
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.pdb
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfoInputs.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfo.cs
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.csproj.CoreCompileInputs.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/refint/1. Two Sum.dll
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.pdb
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.genruntimeconfig.cache
+/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/ref/1. Two Sum.dll
