@@ -97,10 +97,10 @@ class Program
         return finalNums;
     }
 
-    static int Adder()
-    {
+    //static int Adder()
+    //{
         
-    }
+    //}
 }
 
 

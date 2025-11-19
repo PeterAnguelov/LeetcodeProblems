@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRG5rCrZWNzKiPE/p+MvBgwc5owKIXfFeFu1BsYBcAPtPd9TV23Qd7RBNWvjSJIAuJm05CA5KvMKNNAsVHWnKQ==",
+  "dgSpecHash": "Lts0RYilmKk=",
   "success": true,
-  "projectFilePath": "/home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/1. Two Sum.csproj",
+  "projectFilePath": "C:\\Users\\petan\\Downloads\\LeetcodeProblems-main\\LeetcodeProblems-main\\1. Two Sum\\1. Two Sum\\1. Two Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

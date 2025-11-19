@@ -26,3 +26,17 @@
 /home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.pdb
 /home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.genruntimeconfig.cache
 /home/peter/Documents/Leetcode Problems/1. Two Sum/1. Two Sum/obj/Debug/net8.0/ref/1. Two Sum.dll
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.AssemblyInfoInputs.cache
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.AssemblyInfo.cs
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.dll
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\refint\1. Two Sum.dll
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.pdb
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\bin\Debug\net8.0\1. Two Sum.exe
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\bin\Debug\net8.0\1. Two Sum.deps.json
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\bin\Debug\net8.0\1. Two Sum.runtimeconfig.json
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\bin\Debug\net8.0\1. Two Sum.dll
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\bin\Debug\net8.0\1. Two Sum.pdb
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\1. Two Sum.genruntimeconfig.cache
+C:\Users\petan\Downloads\LeetcodeProblems-main\LeetcodeProblems-main\1. Two Sum\1. Two Sum\obj\Debug\net8.0\ref\1. Two Sum.dll
